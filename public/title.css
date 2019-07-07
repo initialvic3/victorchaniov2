@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
+a {
+  text-decoration: none;
+}
+
+.title {
+  text-align: center;
+  padding: 120px 0px 40px;
+  float: none;
+  margin: 0 auto;
+  display: table;
+  width: auto;
+  font-family: "Roboto Slab", serif;
+  font-size: 40px;
+  line-height: 40px;
+  font-weight: 650;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
